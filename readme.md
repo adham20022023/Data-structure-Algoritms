@@ -1,7 +1,3 @@
-I apologize for the confusion. It appears that the links in the previous README file were not working because the filenames in the links were not consistent with the actual filenames in the repository. 
-
-Here is an updated README file with corrected links for the algorithms in the repository:
-
 # Algorithms in C++
 
 This repository contains implementation of various algorithms in C++.
